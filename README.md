@@ -2,6 +2,7 @@
  i am Ahmed Sani.
  a web developer / computer scientist.
 ##  my skill set
- HTML | CSS | javaScript | Bosstrap4  | Sass | React.js | Wordpress |...
- working experience 2+ years. 
+ HTML | CSS | javaScript | Bosstrap  | Sass | React.js 
+Php | MySQL | Wordpress |...
+ working experience 3+ years. 
  
